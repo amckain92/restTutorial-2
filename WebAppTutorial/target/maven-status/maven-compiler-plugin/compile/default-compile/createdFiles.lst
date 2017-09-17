@@ -1,0 +1,10 @@
+com\restTutorial\rest\UserRestService.class
+com\restTutorial\services\UserManager.class
+com\restTutorial\services\impl\UserManagerImpl.class
+com\restTutorial\models\User.class
+com\restTutorial\services\GenericManager.class
+com\restTutorial\dao\UserDao.class
+com\restTutorial\dao\impl\UserDaoImpl.class
+com\restTutorial\dao\GenericDao.class
+com\restTutorial\services\impl\GenericManagerImpl.class
+com\restTutorial\dao\impl\HibernateDaoImpl.class
